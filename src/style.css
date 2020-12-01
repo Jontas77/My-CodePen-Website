@@ -154,7 +154,7 @@ footer .fa-heart {
   color: red;
 }
 
-@media (max-width: 480px) {
+@media screen and (max-width: 480px) {
   .header-right, .header-left {
     width: 100%;
   }
